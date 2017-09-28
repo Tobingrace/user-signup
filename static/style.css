@@ -1,0 +1,19 @@
+label{
+    font-weight: bold;
+}
+
+input
+{
+    color: black;
+}
+
+select option
+{
+    color: red;
+}
+
+select {
+    color: black;
+    border: none;
+    -webkit-appearance:  cover;
+}
